@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "IA-Blog",
+    "description": "",
+    "home_page_url": "https://andrelatino.github.io/publii",
+    "feed_url": "https://andrelatino.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "André"
+    },
+    "items": [
+        {
+            "id": "https://andrelatino.github.io/publii/this-is-a-title.html",
+            "url": "https://andrelatino.github.io/publii/this-is-a-title.html",
+            "title": "This is a title",
+            "summary": "this is a description",
+            "content_html": "<p>this is a description</p>",
+            "author": {
+                "name": "André"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-13T16:13:22+02:00",
+            "date_modified": "2024-10-13T16:13:32+02:00"
+        }
+    ]
+}
